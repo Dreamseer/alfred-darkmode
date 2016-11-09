@@ -1,6 +1,6 @@
 # alfred-darkmode
-An Alfred workflow to toggle Yosemite’s Dark mode and Light mode.
-It also toggles Alfred’s Yosemite theme modes.
+An Alfred workflow to toggle macOS’s Dark mode and Light mode.
+It also toggles Alfred’s macOS theme modes.
 
 *This is pretty simple but now you don’t have to make it.*
 
