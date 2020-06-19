@@ -15,9 +15,9 @@ Open Alfred and type `darkmode`.
 
 ## Screenshots
 
-![Light Mode](https://raw.githubusercontent.com/Dreamseer/alfred-darkmode/master/screenshot-light.png)
+![Light Mode](https://raw.githubusercontent.com/Dreamseer/alfred-darkmode/main/screenshot-light.png)
 
-![Dark Mode](https://raw.githubusercontent.com/Dreamseer/alfred-darkmode/master/screenshot-dark.png)
+![Dark Mode](https://raw.githubusercontent.com/Dreamseer/alfred-darkmode/main/screenshot-dark.png)
 
 ## License
 
